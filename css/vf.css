@@ -1,0 +1,185 @@
+
+/*
+ * Web Fonts from fontspring.com
+ *
+ * All OpenType features and all extended glyphs have been removed.
+ * Fully installable fonts can be purchased at http://www.fontspring.com
+ *
+ * The fonts included in this stylesheet are subject to the End User License you purchased
+ * from Fontspring. The fonts are protected under domestic and international trademark and 
+ * copyright law. You are prohibited from modifying, reverse engineering, duplicating, or
+ * distributing this font software.
+ *
+ * (c) 2010-2012 Fontspring
+ *
+ *
+ *
+ *
+ * The fonts included are copyrighted by the vendor listed below.
+ *
+ * Vendor:      exljbris
+ * License URL: http://www.fontspring.com/fflicense/exljbris
+ *
+ *
+ */
+
+
+  
+
+
+@font-face {
+    font-family: 'Museo-Sans-Cyr-500';
+    src: url('webfonts/MuseoSansCyrl_500-webfont.eot');
+    src: url('webfonts/MuseoSansCyrl_500-webfont.eot?#iefix') format('embedded-opentype'),
+         url('webfonts/MuseoSansCyrl_500-webfont.woff') format('woff'),
+         url('webfonts/MuseoSansCyrl_500-webfont.ttf') format('truetype'),
+         url('webfonts/MuseoSansCyrl_500-webfont.svg#museo_sans_cyrl_500regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Museo-Sans-Cyr-300';
+    src: url('webfonts/MuseoSansCyrl_300-webfont.eot');
+    src: url('webfonts/MuseoSansCyrl_300-webfont.eot?#iefix') format('embedded-opentype'),
+         url('webfonts/MuseoSansCyrl_300-webfont.woff') format('woff'),
+         url('webfonts/MuseoSansCyrl_300-webfont.ttf') format('truetype'),
+         url('webfonts/MuseoSansCyrl_300-webfont.svg#museo_sans_cyrl_300regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Museo-Sans-Cyr-100';
+    src: url('webfonts/MuseoSansCyrl_100-webfont.eot');
+    src: url('webfonts/MuseoSansCyrl_100-webfont.eot?#iefix') format('embedded-opentype'),
+         url('webfonts/MuseoSansCyrl_100-webfont.woff') format('woff'),
+         url('webfonts/MuseoSansCyrl_100-webfont.ttf') format('truetype'),
+         url('webfonts/MuseoSansCyrl_100-webfont.svg#museo_sans_cyrl_100regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+html,body,div,h1,h2,h3,h4,h5,h6,p,img,dl,dt,dd,ol,ul,li,table,caption,tbody,tfoot,thead,tr,th,td,form,fieldset,embed,object,applet{margin:0;padding:0;border:0;}
+body{font-family:Arial,sans-serif;color:#333;background:#fff;padding:15px;}
+a{color:#00c;}
+a:active{color:#f00;}
+a:visited{color:#551a8b;}
+table{border-width:0;empty-cells:show;border-collapse:collapse;}
+ul{padding:0 0 1em 1em;}
+ol{padding:0 0 1em 1.3em;}
+li{line-height:1.5em;padding:0 0 .5em;}
+h1,h2{font-size:1.4em;}
+h3{font-size:1.1em;}
+h4,h5,table{font-size:1em;}
+sup,sub{font-size:.7em;}
+input,select,textarea,option{font-family:inherit;font-size:inherit;}
+img {max-width: 100%; display: block; margin: 10px auto;}
+.g-doc,.g-doc-1024,.g-doc-800{font-size:130%;}
+.ss-base-body{font-size:.8em;}
+.ss-textarea{max-width:99%;}
+.ss-choice-item{margin:0;line-height:1.3em;padding-bottom:.5em; font-family: Arial, sans-serif;}
+.ss-form-entry input{vertical-align:middle;margin:0; }
+.ss-item {padding: 35px 0; background: #fff; border-bottom:1px dashed #999;}
+.ss-form-desc{font:inherit;width:99%;margin:0;}
+.ss-q-title{display:block;font-weight:normal; font-size: 1.5em; margin-bottom: 8px; font-family:'Museo-Sans-Cyr-500';}
+.ss-form-title {font-family:'Museo-Sans-Cyr-500'; font-weight:normal; font-size:2em;}
+.ss-q-help{display:block;color:#666;margin:.1em 0 .25em;}
+.ss-q-long{}
+.ss-form-entry{zoom:1;}
+.ss-choices{list-style:none;margin:.5em 0 0;padding:0;}
+.ss-powered-by{display:block;clear:left;color:#666;margin:1em .2em .2em;}
+.ss-terms{display:block;clear:left;margin:1em .2em .2em;}
+.ss-section-title{background-color:#eee;padding:.4em;margin:2em -.4em 0;}
+.ss-section-description{margin-top:.5em;}
+.ss-no-ignore-whitespace{word-wrap:break-word;white-space:pre;}
+.ss-page-title{margin:0;padding:0;}
+.ss-confirmation-header{font-size:140%;padding-bottom:1em;}
+.ss-gridnumbers{text-align:center;border-bottom:1px solid #d3d8d3;}
+.ss-gridrow{text-align:center;color:#666;border-bottom:1px solid #d3d8d3;padding:.5em .25em;}
+.ss-grid-row-even{background-color:#fff;}
+.ss-grid-row-odd{background-color:#f2f2f2;}
+.ss-gridrow-leftlabel{padding:0 1em;}
+.ss-grideditor-columns input{line-height:150%;}
+.ss-grideditor-editor .ss-magiclist-ul span.ss-header{font-weight:bold;padding-right:1em;}
+.ss-grid .errorbox-component .errorbox-good,.ss-grid .errorbox-component .errorbox-bad{display:none;}
+.ss-scalenumbers{text-align:center;}
+.ss-scalerow{text-align:center;color:#666;border:1px solid #d3d8d3;border-left:0;border-right:0;padding:.5em .25em;}
+td.ss-leftlabel{text-align:right;padding-left:0;}
+td.ss-rightlabel{text-align:left;padding-right:0;}
+h1{font-size:1.8em;padding:0;}
+label{display:block;cursor:pointer;}
+hr{border:0;height:1px;background-color:#ddd;}
+.ss-response-cell{background-color:#fff;border:1px solid #ccc;padding:.1em .5em;}
+.ss-responses-header{background-color:#969696;color:#fff;padding:.2em .5em;}
+.ss-form-container{width:800px;margin:40px auto; }
+.ss-confirmation-banner{background-color:#ffff87;}
+.ss-old-form-response{background-color:#ffff3d;font-weight:bold;}
+.errorbox-bad{border:2px solid #c43b1d;background-color:#ffe6cc;padding:2px;}
+p,h1,h2,h3,h4,h5{padding:0 0 1em;}
+.g,.ss-powered-by a:link,.ss-powered-by a:visited{color:#666;}
+.i,ul label{display:inline;}
+.ss-required-asterisk,.errorheader{color:#c43b1d;}
+.ss-gridnumber,.ss-scalenumber{display:block;padding:.5em 0;}
+.ss-q-short, textarea {display: block; padding: 5px; width: 100%; border:1px solid #999; -moz-box-sizing: border-box; -webkit-box-sizing: border-box; -o-box-sizing: border-box; box-sizing: border-box;}
+input:focus, textarea:focus {outline: none; box-shadow: 0 0 5px 0 #ccc;}
+#ss-form {counter-reset: rnum;}
+.ss-q-title:before {content: counter(rnum)". "; counter-increment: rnum;}
+
+.dvs-submit {border:none; color:#fff; padding:5px 15px; background:#abbf58; font-size:1.2em;}
+
+.dvs-container {position:relative; margin-top:200px;}
+.dvs-container img {display:block; margin:0 auto 20px auto;}
+.dvs-container h1 {font-family:'Museo-Sans-Cyr-500'; font-weight:normal; font-size:2em; text-align:center;}
+.dvs-container p {font-family:'Museo-Sans-Cyr-100'; font-weight:normal; font-size:1.3em; text-align:center;}
+.dvs-container p:last-child  {margin-top:30px;}
+.dvs-container a {font-family:'Museo-Sans-Cyr-100'; font-weight:normal; text-align:center; padding:10px 40px; color:#fff; text-decoration:none; background:#abbf58; transition:all 0.5s 0.2s ease-in-out;}
+.dvs-container a:hover {box-shadow:0 0 3px 0 #abbf58;}
+
+#until130{position:fixed; z-index:1000; top:0; right:30px;font-family:'Museo-Sans-Cyr-500'; font-weight:normal; font-size:1em;padding:10px 40px; color:#fff; text-decoration:none; background:#abbf58;}
+.countdown_row {	clear: both;	width: 100%;	padding: 0px 2px;	text-align: center;}
+.countdown_show1 .countdown_section {
+	width: 98%;
+}
+.countdown_show2 .countdown_section {
+	width: 48%;
+}
+.countdown_show3 .countdown_section {
+	width: 32.5%;
+}
+.countdown_show4 .countdown_section {
+	width: 24.5%;
+}
+.countdown_show5 .countdown_section {
+	width: 19.5%;
+}
+.countdown_show6 .countdown_section {
+	width: 16.25%;
+}
+.countdown_show7 .countdown_section {
+	width: 14%;
+}
+.countdown_section {
+	display: block;
+	float: left;
+	font-size: 75%;
+	text-align: center;
+}
+.countdown_amount {
+	font-size: 200%;
+}
+.countdown_descr {
+	display: block;
+	width: 100%;
+}
+
+@media print {
+ #until130 {display:none;}
+ img {display:inline;}
+ .ss-form-container {width:100%; margin:0;}
+ .ss-q-title {font-size:12pt; font-weight:bold;}
+ .ss-item {padding:10px 0; border-color:#000;}
+}
